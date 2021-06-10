@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p4nu
 - 👀 I’m interested in game and software development
-- 🌱 I’m currently learning full stack react and express.js with end to end testing using cypress. 
+- 🌱 I’m currently learning Spring with Spring Boot 
 - 💞️ I’m looking to collaborate on game projects I have set up here. 
 - 📫 You can reach me by opening an issue on a related repo. 
 
