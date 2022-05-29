@@ -1,4 +1,7 @@
-[![Futuristic fonts](https://see.fontimg.com/api/renderfont4/vmpW4/eyJyIjoiZnMiLCJoIjoxMDcsInciOjE1MDAsImZzIjo3MSwiZmdjIjoiIzAwMDAwMCIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/UGFudSBWYWx0YW5lbg/delight.png)](https://www.fontspace.com/category/futuristic)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/28947061/170884178-4dc66fcc-b02b-4fb1-8f3b-05815af3d6d2.png" />
+  <img alt="Panu Valtanen" src="https://user-images.githubusercontent.com/28947061/170884199-a1ba5e08-25cf-411d-b7b1-93858c6e6d8b.png" />
+</picture>
 
 - 👋 Hi, I’m @p4nu!
 - 👀 I’m interested in game and software development.
