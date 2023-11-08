@@ -7,7 +7,7 @@
 - 👀 I’m interested in game and software development.
 - 🌱 I'm currently learning fullstack JavaScript development.
 - 👩‍💻 [I'm a casual Codewars user](https://www.codewars.com/users/p4nu)
-- 📫 You can reach me by opening an issue on a related repo. 
+- 📫 You can reach me by opening an issue on a related repo or LinkedIn! 
 
 <!---
 p4nu/p4nu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
