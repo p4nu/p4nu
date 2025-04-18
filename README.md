@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @p4nu!
 - 👀 I’m interested in game and software development.
-- 🌱 I'm currently learning fullstack JavaScript development.
+- 🌱 I'm currently expanding knowledge about Unity Game development.
 - 👩‍💻 [I'm a casual Codewars user](https://www.codewars.com/users/p4nu)
 - 📫 You can reach me by opening an issue on a related repo or LinkedIn! 
 
